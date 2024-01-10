@@ -49,5 +49,6 @@ Press **'q'** to exit the application.
 This script detects faces and eyes in a single image.Detects face and eye from a single image. Demo-
 
 ### Usage
-```bash
-python face_and_eye_detector_single_image.py path/to/your/image.jpg
+- Download the shape predictor model file (`shape_predictor_68_face_landmarks.dat`) from dlib's official website and place it in the same directory as the script.
+- Set the correct file path for the alert sound in the mixer.music.load function.
+- Run the script.
