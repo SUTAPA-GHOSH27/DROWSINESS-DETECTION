@@ -1,4 +1,3 @@
-
 # Drowsiness Detection System
 
 The Drowsiness Detection System is designed to monitor a person's eye behavior using a webcam in real-time. The system utilizes facial landmark detection and the Eye Aspect Ratio (EAR) to identify signs of drowsiness or fatigue. When the system detects that the person's eyes have been closed for an extended period, it triggers an alert to notify the user, making it a valuable tool for preventing accidents caused by drowsy driving or fatigue-related tasks.
